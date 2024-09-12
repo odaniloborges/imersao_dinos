@@ -25,11 +25,14 @@ let dados = [
     },
     // Adicione mais dinossauros aqui:
     {
-        titulo: "Archaeopteryx",
-        descricao: "Considerado uma forma de transição entre dinossauros e aves modernas, o Archaeopteryx possuía penas e um bico, mas também garras em suas asas e dentes.",
-        periodo: "Jurássico Superior",
-        alimentacao: "Carnívoro (provavelmente insetos e pequenos animais)",
-        link: "https://pt.wikipedia.org/wiki/Archaeopteryx"
+        {
+    titulo: "Archaeopteryx",
+    descricao: "Considerado uma forma de transição entre dinossauros e aves modernas, o Archaeopteryx possuía penas e um bico, mas também garras em suas asas e dentes.",
+    periodo: "Jurássico Superior",
+    alimentacao: "Carnívoro (provavelmente insetos e pequenos animais)",
+    tamanho: "Cerca de 50 centímetros de comprimento",
+    link: "https://pt.wikipedia.org/wiki/Archaeopteryx"
+}
     },
     {
         titulo: "Camptossauro",
